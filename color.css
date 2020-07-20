@@ -2,4 +2,7 @@ body {
   background-color: aqua;
   text-align: center;
   text-decoration: none;
+  color: #000;
+  border: aqua;
+  bottom: 10px;
 }
